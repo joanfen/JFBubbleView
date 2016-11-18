@@ -16,16 +16,20 @@ Base 类: **JFBubbleItem**, **JFBubbleView** , **JFInputBubbleItem** 是一个�
 
 ## JFBubbleItem
 
-默认样式
+ 默认样式
 
+ ![jfbubbleitem](https://cloud.githubusercontent.com/assets/2142617/20428353/8e285dec-adc3-11e6-89e5-7f0bc31e2f62.png)
 
-自定义子类来覆写默认样式，选中样式
+ 自定义子类来覆写默认样式，选中样式
 
-示例参照 `JFSelectBubbleView.m` 中的 **JFSelectBubbleItem**
+ 示例参照 `JFSelectBubbleView.m` 中的 **JFSelectBubbleItem**
 
 ## JFBubbleView
 
-用法类似 TableView，示例参考 **JFSelectBubbleView**
+
+ ![jfbubbleview](https://cloud.githubusercontent.com/assets/2142617/20428360/9a16a820-adc3-11e6-83ef-51c8a005450f.png)
+
+ 用法类似 TableView，示例参考 **JFSelectBubbleView**
 
 ## JFBubbleViewController
 
